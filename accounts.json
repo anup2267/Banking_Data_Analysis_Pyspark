@@ -1,0 +1,59 @@
+{
+"accounts": [
+	{
+		"account_id" : 1,
+		"customer_id" : 1,
+		"employee_id" : 2,
+		"account_type" : "Savings",
+		"balance" : 5000
+	},
+	{
+		"account_id" : 2,
+		"customer_id" : 1,
+		"employee_id" : 3,
+		"account_type" : "Checking",
+		"balance" : 1000
+	},
+	{
+		"account_id" : 3,
+		"customer_id" : 2,
+		"employee_id" : 4,
+		"account_type" : "Savings",
+		"balance" : 8000
+	},
+	{
+		"account_id" : 4,
+		"customer_id" : 3,
+		"employee_id" : 1,
+		"account_type" : "Checking",
+		"balance" : 3000
+	},
+	{
+		"account_id" : 5,
+		"customer_id" : 2,
+		"employee_id" : 2,
+		"account_type" : "Checking",
+		"balance" : 2500
+	},
+	{
+		"account_id" : 6,
+		"customer_id" : 3,
+		"employee_id" : 3,
+		"account_type" : "Savings",
+		"balance" : 6000
+	},
+	{
+		"account_id" : 7,
+		"customer_id" : 4,
+		"employee_id" : 4,
+		"account_type" : "Checking",
+		"balance" : 12000
+	},
+	{
+		"account_id" : 8,
+		"customer_id" : 5,
+		"employee_id" : 2,
+		"account_type" : "Savings",
+		"balance" : 3000
+	}
+]}

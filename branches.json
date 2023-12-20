@@ -1,0 +1,18 @@
+{
+"branches": [
+	{
+		"branch_id" : 1,
+		"branch_name" : "Main Branch",
+		"location" : "Downtown City"
+	},
+	{
+		"branch_id" : 2,
+		"branch_name" : "Suburban Branch",
+		"location" : "Suburbville"
+	},
+	{
+		"branch_id" : 3,
+		"branch_name" : "Regional Branch",
+		"location" : "Regional City"
+	}
+]}
